@@ -1,0 +1,21 @@
+discriminators:
+  individuals:
+  - {fitness: 2.4576151609420775, id: 1/D0, is_local: false, source: '127.0.0.1:5001'}
+  - {fitness: 0.9334957122802734, id: 6/D0, is_local: false, source: '127.0.0.1:5006'}
+  - {fitness: 1.137232345342636, id: 3/D0, is_local: false, source: '127.0.0.1:5003'}
+  - {fitness: 1.186475920677185, id: 14/D0, is_local: false, source: '127.0.0.1:5014'}
+  - {fitness: 0.5284545332193374, id: 8/D0, is_local: true, source: '127.0.0.1:5008'}
+  learning_rate: '0.00014022256550491667'
+generators:
+  individuals:
+  - {fitness: 1.6084994077682495, id: 1/G0, is_local: false, source: '127.0.0.1:5001'}
+  - {fitness: 0.3916350148618221, id: 6/G0, is_local: false, source: '127.0.0.1:5006'}
+  - {fitness: 0.6253381490707397, id: 3/G0, is_local: false, source: '127.0.0.1:5003'}
+  - {fitness: 0.3725686103105545, id: 14/G0, is_local: false, source: '127.0.0.1:5014'}
+  - {fitness: 0.12740564346313477, id: 8/G0, is_local: true, source: '127.0.0.1:5008'}
+  learning_rate: '8.407385946826775e-05'
+grid_size: 16
+id: 8
+iteration: 0
+position: {x: 0, y: 2}
+time: '2019-12-14 18:21:13'
